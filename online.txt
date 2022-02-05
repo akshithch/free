@@ -1,0 +1,4 @@
+{                 "ip":"AKHSMP.aternos.me",
+                  "port":"36368" 
+                  "name":free"    
+                   
